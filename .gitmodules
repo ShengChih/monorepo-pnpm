@@ -1,0 +1,6 @@
+[submodule "app/nuxt-sample"]
+	path = app/nuxt-sample
+	url = https://github.com/ShengChih/nuxt-template.git
+[submodule "next-sample"]
+	path = app/next-sample
+	url = https://github.com/ShengChih/nextjs-template.git

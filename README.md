@@ -79,8 +79,8 @@ git submodule update --init --recursive
 ```
 pnpm -F {target} add {third-party or other package}
 
-e.g. 對 app/nuxt-sample 專案加入 package/lib 依賴
-pnpm -F app/nuxt-sample add package/lib
+e.g. 對 ./app/nuxt-sample 專案加入 package/lib 依賴
+pnpm -F ./app/nuxt-sample add package/lib
 
-pnpm -F app/next-sample add three
+pnpm -F ./app/next-sample add three
 ```
